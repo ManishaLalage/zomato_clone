@@ -46,7 +46,6 @@ const DiningCarousel = () => {
       places: "9 Places",
     },
   ]);
-
   const slideConfig = {
     slidesPerView: 1,
     spaceBetween: 10,
