@@ -48,8 +48,7 @@ const MobileTabs = () => {
                   type === item.id
                     ? "w-full h-full border-t-2 border-zomato-400 flex flex-col items-center pt-3"
                     : "flex flex-col items-center pt-3"
-                }
-              >
+                }  >
                 {item.icon}
               </div>
               <h5 className="text-sm pb-3">{item.name}</h5>
